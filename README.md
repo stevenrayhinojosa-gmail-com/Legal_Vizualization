@@ -1,4 +1,4 @@
-# Tableau-Viz-Law
+# Legal_Vizualization
 
 ![Sheet 1(9)](https://github.com/stevenrayhinojosa-gmail-com/Tableau-Viz-Law/assets/17886818/14b66403-ed36-4627-800b-cd9fc94df096)
 ![Sheet 1(8)](https://github.com/stevenrayhinojosa-gmail-com/Tableau-Viz-Law/assets/17886818/15bb4ecd-fc41-42f0-99a5-2646f82a80a2)
